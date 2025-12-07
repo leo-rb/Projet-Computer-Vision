@@ -27,7 +27,7 @@ Préparer une photo d'une personne (sur son téléphone perso) équipée d'équi
 ```bash
 python live_inference.py
 ```
-
+--------------------------------------
 
 **Image test
 <img width="990" height="782" alt="image" src="https://github.com/user-attachments/assets/a29d25c3-2b87-419c-9177-626beceedead" />
