@@ -1,0 +1,13 @@
+# Ignore les dossiers de données
+data/
+datasets/
+
+# Ignore les environnements virtuels
+venv/
+
+# Ignore les logs d'entrainement
+runs/
+
+# Ignore les fichiers python compilés
+__pycache__/
+*.ipynb_checkpoints/

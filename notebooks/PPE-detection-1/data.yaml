@@ -1,0 +1,21 @@
+names:
+- boots
+- gloves
+- goggles
+- helmet
+- no-boots
+- no-gloves
+- no-goggles
+- no-helmet
+- no-vest
+- vest
+nc: 10
+roboflow:
+  license: CC BY 4.0
+  project: ppe-detection-qlq3d
+  url: https://universe.roboflow.com/testcasque/ppe-detection-qlq3d/dataset/1
+  version: 1
+  workspace: testcasque
+test: ../test/images
+train: ../train/images
+val: ../valid/images
