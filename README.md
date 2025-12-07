@@ -2,15 +2,15 @@
 
 Ce projet utilise le Deep Learning (YOLOv8) pour détecter en temps réel si les ouvriers sur un chantier portent leurs équipements de sécurité (Casques, Gilets, etc.).
 
-## 🎯 Objectif
+## Objectif
 Améliorer la sécurité sur les chantiers en automatisant la surveillance du port des EPI via des caméras de surveillance.
 
-## 🛠️ Tech Stack
+## Tech Stack
 * **Langage :** Python 3.11
 * **Modèle :** YOLOv8 (Fine-tuné)
 * **Librairies :** Ultralytics, OpenCV, Roboflow
 
-## 🚀 Comment lancer le projet
+## Comment lancer le projet
 1. Cloner le repo :
    ```bash
    git clone [https://github.com/leo-rb/Projet-Computer-Vision.git](https://github.com/leo-rb/Projet-Computer-Vision.git)
