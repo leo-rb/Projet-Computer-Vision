@@ -17,8 +17,8 @@ Améliorer la sécurité sur les chantiers en automatisant la surveillance du po
 
 
 2. Dépendances
+```bash
 pip install -r requirements.txt
-
 
 3. Démo webcam 
 Préparer une photo d'une personne (sur son téléphone perso) équipée d'équipements de sécurité
