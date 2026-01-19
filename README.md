@@ -13,7 +13,7 @@ Améliorer la sécurité sur les chantiers en automatisant la surveillance du po
 ## Comment lancer le projet
 1. Cloner le repo :
    ```bash
-   git clone [https://github.com/leo-rb/Projet-Computer-Vision.git](https://github.com/leo-rb/Projet-Computer-Vision.git)
+   git clone https://github.com/leo-rb/Projet-Computer-Vision.git
 
 
 2. Dépendances
