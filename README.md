@@ -1,4 +1,4 @@
-# 🏗️ Système de Détection d'EPI (Équipements de Protection Individuelle)
+# Système de Détection d'EPI (Équipements de Protection Individuelle)
 
 Ce projet utilise le Deep Learning (YOLOv8) pour détecter en temps réel si les ouvriers sur un chantier portent leurs équipements de sécurité (Casques, Gilets, etc.).
 
@@ -22,7 +22,7 @@ pip install -r requirements.txt
 ```
 
 3. Démo webcam 
-Préparer une photo d'une personne (sur son téléphone perso) équipée d'équipements de sécurité
+--Préparer une photo d'une personne (sur son téléphone perso) équipée d'équipements de sécurité
 
 ```bash
 python live_inference.py
