@@ -17,16 +17,17 @@ Améliorer la sécurité sur les chantiers en automatisant la surveillance du po
    ```
 
 2. Dépendances
-```bash
-pip install -r requirements.txt
-```
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 3. Démo webcam 
 - Préparer une photo d'une personne (sur son téléphone perso) équipée d'équipements de sécurité
 
-```bash
-python live_inference.py
-```
+   ```bash
+   python live_inference.py
+   ```
+
 --------------------------------------
 
 IMAGE TEST
